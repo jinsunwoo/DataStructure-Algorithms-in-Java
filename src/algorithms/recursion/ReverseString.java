@@ -1,7 +1,5 @@
 package algorithms.recursion;
 
-import java.util.ArrayList;
-
 public class ReverseString {
 	// Reverse String, for example, a bcde -> edcb a
 	public String ReverseStringRecursive(String words) {
@@ -29,5 +27,4 @@ public class ReverseString {
 		System.out.println(case1.ReverseStringRecursive("a bc"));
 		
 	}
-
 }
